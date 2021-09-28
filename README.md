@@ -1,6 +1,5 @@
 # Actividad 0
 ## Evaluación Inicial
-
 1. ¿Que es una página web?
 
    Documento HTML, que puede tener CSS, Js e imágenes. Es cada pantalla de un sitio web o app web.
